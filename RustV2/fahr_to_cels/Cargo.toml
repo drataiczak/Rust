@@ -1,0 +1,6 @@
+[package]
+name = "fahr_to_cels"
+version = "0.1.0"
+authors = ["Devin Rataiczak <drataiczak@gmx.com>"]
+
+[dependencies]
