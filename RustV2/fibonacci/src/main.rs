@@ -58,6 +58,7 @@ fn get_input() -> (u32, u32, u32) {
 	return (first, second, count);
 }
 
+// Can only handle up to 46-ish. It will overflow u32 at that point
 fn calculate_fib(first: u32, second: u32) -> u32 {
 	first + second
 }
