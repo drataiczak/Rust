@@ -1,0 +1,1 @@
+/home/devin/Documents/Rust/RustV2/communicator_pt2/target/debug/libcommunicator_pt2.rlib: /home/devin/Documents/Rust/RustV2/communicator_pt2/src/client.rs /home/devin/Documents/Rust/RustV2/communicator_pt2/src/lib.rs /home/devin/Documents/Rust/RustV2/communicator_pt2/src/network/mod.rs /home/devin/Documents/Rust/RustV2/communicator_pt2/src/network/server.rs
