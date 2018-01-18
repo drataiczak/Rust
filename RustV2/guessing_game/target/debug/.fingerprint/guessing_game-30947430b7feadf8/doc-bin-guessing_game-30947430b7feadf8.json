@@ -1,1 +1,0 @@
-{"rustc":16448434725525097460,"features":"[]","target":9135322518048604355,"profile":12472537617123984595,"deps":[["rand v0.4.1",17215995571807711511],["rand v0.4.1",2871239327052073913]],"local":[{"Precalculated":"1513918194.798481407s (/home/devin/Documents/Rust/RustV2/guessing_game/src/main.rs)"}],"rustflags":[]}
