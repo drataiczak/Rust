@@ -1,0 +1,7 @@
+[package]
+name = "traits_pt2"
+version = "0.1.0"
+authors = ["Devin Rataiczak <drataiczak@gmx.com>"]
+
+[dependencies]
+traits = { path = "../traits" }
